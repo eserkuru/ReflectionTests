@@ -1,0 +1,11 @@
+C:\Users\eser.kuru\source\repos\ReflectionTests\ReflectionTests\bin\Debug\netcoreapp2.2\ReflectionTests.deps.json
+C:\Users\eser.kuru\source\repos\ReflectionTests\ReflectionTests\bin\Debug\netcoreapp2.2\ReflectionTests.runtimeconfig.json
+C:\Users\eser.kuru\source\repos\ReflectionTests\ReflectionTests\bin\Debug\netcoreapp2.2\ReflectionTests.runtimeconfig.dev.json
+C:\Users\eser.kuru\source\repos\ReflectionTests\ReflectionTests\bin\Debug\netcoreapp2.2\ReflectionTests.dll
+C:\Users\eser.kuru\source\repos\ReflectionTests\ReflectionTests\bin\Debug\netcoreapp2.2\ReflectionTests.pdb
+C:\Users\eser.kuru\source\repos\ReflectionTests\ReflectionTests\obj\Debug\netcoreapp2.2\ReflectionTests.csprojAssemblyReference.cache
+C:\Users\eser.kuru\source\repos\ReflectionTests\ReflectionTests\obj\Debug\netcoreapp2.2\ReflectionTests.csproj.CoreCompileInputs.cache
+C:\Users\eser.kuru\source\repos\ReflectionTests\ReflectionTests\obj\Debug\netcoreapp2.2\ReflectionTests.AssemblyInfoInputs.cache
+C:\Users\eser.kuru\source\repos\ReflectionTests\ReflectionTests\obj\Debug\netcoreapp2.2\ReflectionTests.AssemblyInfo.cs
+C:\Users\eser.kuru\source\repos\ReflectionTests\ReflectionTests\obj\Debug\netcoreapp2.2\ReflectionTests.dll
+C:\Users\eser.kuru\source\repos\ReflectionTests\ReflectionTests\obj\Debug\netcoreapp2.2\ReflectionTests.pdb
